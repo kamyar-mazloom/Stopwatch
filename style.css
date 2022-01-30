@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background: #d8cb1bcc;
+  color: rgb(0, 0, 0);
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border: 3px white;
+  border-radius: 50px;
+  background: #202020;
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px;
+}
+
+#stopwatch {
+  padding-top: 300px;
+  font-size: 100px;
+  position: relative;
+}
+#buttons {
+  position: relative;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+#laps {
+  font-size: 20px;
+  position: relative;
+}
